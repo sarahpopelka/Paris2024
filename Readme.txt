@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Groovin
-Template URL: https://bootstrapmade.com/groovin-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+A mock design pitch for an app to enhance the experience of the Paris 2024 Olympic Games
